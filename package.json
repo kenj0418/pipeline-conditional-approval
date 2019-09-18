@@ -1,0 +1,16 @@
+{
+  "name": "pipeline-conditional-approval",
+  "version": "0.1.0",
+  "bin": {
+    "pipeline-conditional-approval": "bin/pipeline-conditional-approval.js"
+  },
+  "scripts": {
+    "cdk": "cdk"
+  },
+  "devDependencies": {
+    "aws-cdk": "^1.8.0"
+  },
+  "dependencies": {
+    "@aws-cdk/core": "^1.8.0"
+  }
+}
