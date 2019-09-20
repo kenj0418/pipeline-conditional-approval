@@ -11,6 +11,10 @@
     "aws-cdk": "^1.8.0"
   },
   "dependencies": {
-    "@aws-cdk/core": "^1.8.0"
+    "@aws-cdk/aws-iam": "^1.8.0",
+    "@aws-cdk/aws-stepfunctions": "^1.8.0",
+    "@aws-cdk/aws-stepfunctions-tasks": "^1.8.0",
+    "@aws-cdk/core": "^1.8.0",
+    "aws-sdk": "^2.530.0"
   }
 }
